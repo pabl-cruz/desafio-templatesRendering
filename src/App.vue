@@ -1,9 +1,9 @@
 <script setup>
-import CustomizableCard from './components/CustomizeCard.vue';
+import CustomizableCard from './components/CustomizeCard.vue'
 </script>
 
 <template>
-  <CustomizableCard/>
+  <CustomizableCard />
 </template>
 
 <style scoped>
